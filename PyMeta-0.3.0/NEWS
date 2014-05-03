@@ -1,0 +1,14 @@
+0.3.0 (2008-07-12):
+ - Input stream now implemented like the Javascript version, with immutable
+   position objects.
+
+0.2.0 (2008-04-17):
+ - Grammars generate Python source instead of ASTs.
+ - OMeta now has a "metagrammarClass" attribute, to ease extension of
+   the metagrammar.
+
+0.1.1 (2008-03-27):
+ - Fixed a bug in 'super'.
+
+0.1 (2008-03-26):
+ - Initial release.
